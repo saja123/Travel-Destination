@@ -1,0 +1,26 @@
+.parent {
+    background-color: rgb(148, 193, 227);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    border: 0 solid #fcf8f8;
+    width: 335px;
+    height: 300px;
+    text-align: center;
+    margin: 15px;
+    background-color: #0fd5b8;
+    border-radius: 1rem;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.card img {
+    width: 335px;
+    height: 210px;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
