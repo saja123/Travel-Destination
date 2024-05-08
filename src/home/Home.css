@@ -1,0 +1,35 @@
+:root {
+    --nav-bg:#334155;
+    --text-100:#94a3b8;
+    --accent-100:#d946ef;
+}
+
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;  
+}
+
+.nav-bar {
+    background-color: var(--nav-bg);
+    padding: 20px;
+}
+
+.nav-bar ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-bar ul li {
+    list-style-type: none;
+}
+
+.nav-bar ul li a{
+    text-decoration: none;
+    color: var(--text-100);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav-bar ul li a:hover {
+    color: var(--accent-100);
+}

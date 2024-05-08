@@ -1,0 +1,18 @@
+img {
+    width: 60px;
+    height: 60px;
+}
+
+footer {
+    display: flex;
+    background-color: rgb(226, 247, 243);
+    flex-direction: column;
+    text-align: center;
+padding: 30px;
+gap: 15px;
+}
+
+.icon a{
+    margin: 30px;
+
+}
