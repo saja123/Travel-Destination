@@ -1,0 +1,14 @@
+.image-class {
+    width: 600px;
+    height: 600px;
+}
+
+article {
+    font-size: 30px;
+    margin: 30px;
+}
+
+span {
+    cursor: pointer;
+    color: blue;
+}
