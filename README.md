@@ -69,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Travel-Destination
+
+## lab17 npm i react-router-dom@6
+## second steps in index.js write 
+## import { BrowserRouter } from "react-router-dom";
+## <BrowserRouter>
+   ## <App />
+   ## </BrowserRouter>
